@@ -1,0 +1,10 @@
+{
+    "mysql":{
+        "host": "your_host",
+        "user": "your_user",
+        "password": "your_passwd",
+        "port": "your_port"
+    }
+    
+    
+}
